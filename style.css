@@ -1,0 +1,39 @@
+.titulo {
+
+    font-family: georgia;
+    color: #00a8ff;
+    text-align: center;
+    background-color: #120632;
+}
+
+#go {
+    width: 400px; 
+    height: 300px;
+    margin-left: 10px;
+}
+
+
+p
+{
+    color: #120632;
+    
+}
+
+.imagem {
+    width: 50px; 
+    height: 50px;
+    margin-left: 10px;
+}
+
+.textoMenor{
+    color:white;
+    text-align: right;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
